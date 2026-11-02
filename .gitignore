@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos (se descargan con el notebook 00)
+data/raw/*
+!data/raw/.gitkeep
+*.db
